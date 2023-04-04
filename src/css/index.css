@@ -1,0 +1,30 @@
+@font-face {
+	font-family: Solomon;
+	src: url(../fonts/solomon_sans_normal.woff2),url(../fonts/solomon_sans_normal.woff);
+}
+
+@font-face {
+	font-family: Solomon;
+	src: url(../fonts/solomon_sans_normal_italic.woff2),url(../fonts/solomon_sans_normal_italic.woff);
+	font-style: italic;
+}
+
+@font-face {
+	font-family: Solomon;
+	src: url(../fonts/solomon_sans_semibold.woff2),url(../fonts/solomon_sans_semibold.woff);
+	font-weight: 600;
+}
+
+@font-face {
+	font-family: Solomon;
+	src: url(../fonts/solomon_sans_bold.woff2),url(../fonts/solomon_sans_bold.woff);
+	font-weight: 700;
+}
+
+body {
+  margin: 0;
+  font-family: Solomon, sans-serif;
+  background-color: rgb(253, 232, 236);
+}
+
+
