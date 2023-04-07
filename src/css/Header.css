@@ -5,20 +5,3 @@
     justify-content: space-between;
 }
 
-.menuItem {
-    padding: 10px 70px;
-    border: 2px solid rgb(226, 148, 161);
-    background-color: rgb(245, 205, 212);
-    border-radius: 5px;
-    transition: 0.3s;
-}
-
-.menuItem a {
-    text-decoration: none;
-    font-weight: bold;
-    color: rgb(183, 99, 113);
-}
-
-.menuItem:hover {
-    background-color: rgb(226, 148, 161);
-}

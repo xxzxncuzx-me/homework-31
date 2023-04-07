@@ -1,16 +1,3 @@
 .mainContainer {
     margin: 70px auto;
 }
-
-.mainContainer h2 {
-    width: 50%;
-    margin: 0;
-    color: rgb(226, 148, 161);
-}
-
-.mainContainer svg {
-    fill: rgb(226, 148, 161);
-    float: right;
-   height: 250px;
-   width: 250px;
-}
